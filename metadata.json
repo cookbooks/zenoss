@@ -6,13 +6,23 @@
   "maintainer_email": "matt@opscode.com",
   "license": "Apache 2.0",
   "platforms": {
-    "debian": ">= 0.0.0",
-    "ubuntu": ">= 0.0.0"
+    "debian": [
+
+    ],
+    "ubuntu": [
+
+    ]
   },
   "dependencies": {
-    "apt": ">= 0.0.0",
-    "openssh": ">= 0.0.0",
-    "openssl": ">= 0.0.0"
+    "apt": [
+
+    ],
+    "openssh": [
+
+    ],
+    "openssl": [
+
+    ]
   },
   "recommendations": {
   },
